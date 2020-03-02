@@ -1,2 +1,1 @@
-# TZKmod
-Scripts of Critical PBO in TZK mod.
+Although the folders in MOD, AddOns, Bin, Campaigns, Dta, are no conflict with MPMissions, it's inconvenient to place them with MPMissions since missions are updated frequently and including many unknown problems.
