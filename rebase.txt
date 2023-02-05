@@ -1,1 +1,3 @@
 learning how rebase perform on func branch with pushed commits
+
+commit 0
