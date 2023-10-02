@@ -2,11 +2,22 @@ master
 
 commit 1
 
+namespace
+{
+bool getEnv1()
+{
+    ...
+}
+}
+
 func()
 {
     ...
 
     ...
+
+    if (getEnv1())
+        return;
 
     ...
 }
